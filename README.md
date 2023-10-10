@@ -5,11 +5,11 @@ Written in python 2.7
 
 [Modules]
 
-<scipy>   : Support files. See documentation inside folder tree and online.
+scipy   : Support files. See documentation inside folder tree and online.
 
-<pyproj>  : Support files. See documentation inside folder tree and online.
+pyproj  : Support files. See documentation inside folder tree and online.
 
-<Formats> : contains subs for accessing binary data formats, header information
+Formats : contains subs for accessing binary data formats, header information
             stored as Seismic Unix headers
 
     DZT :   for GSSI .dzt format 
@@ -251,7 +251,7 @@ Written in python 2.7
                     Imagenix .852 binary file format headers
                     
 
-<Toolbox> : contains subs of tools with various general functionality and 
+Toolbox : contains subs of tools with various general functionality and 
             applications
 
     Geometry :  contains various arithmetic approaches regarding geometric 
